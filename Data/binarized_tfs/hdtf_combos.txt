@@ -1,0 +1,17 @@
+('Lim1', 'Optix', 'Rx', 'hth', 'onecut', 'pros'): ['109', '115']
+('CG32532', 'Lim1', 'NK7.1', 'ct', 'hth', 'onecut', 'pdm3', 'pros', 'toy', 'zfh2'): ['112', '27']
+('CG32532', 'Lim1', 'NK7.1', 'Rx', 'hth', 'onecut', 'pros'): ['127', '140']
+('Lim1', 'Rx', 'ct', 'hth', 'onecut', 'pdm3', 'pros'): ['128', '45']
+('CG32532', 'NK7.1', 'ct', 'hth', 'onecut', 'pros'): ['130', '156']
+('CG32532', 'NK7.1', 'ct', 'hth', 'onecut', 'pdm3', 'pros'): ['149', '90']
+('CG32532', 'NK7.1', 'dve', 'hth', 'onecut', 'pros', 'tup'): ['151', '152']
+('hth', 'onecut', 'pdm3', 'pros'): ['16', '24']
+('CG18599', 'CG4328', 'Lmx1a', 'ct', 'ey', 'hth', 'onecut', 'pdm3', 'pros', 'zfh1'): ['168', '76']
+('hth', 'pdm3', 'pros'): ['2', '29']
+('Lim1', 'NK7.1', 'ct', 'hth', 'onecut', 'pdm3', 'pros', 'toy', 'zfh2'): ['3', '30', '4', '5']
+('CG32532', 'Lim1', 'NK7.1', 'Optix', 'Rx', 'hth', 'onecut', 'pros'): ['35', '97']
+('CG32532', 'Lim1', 'NK7.1', 'Optix', 'Rx', 'hth', 'onecut', 'pdm3', 'pros'): ['40', '60']
+('CG32532', 'NK7.1', 'hth', 'onecut', 'pdm3', 'pros'): ['43', '57']
+('NK7.1', 'ct', 'hth', 'onecut', 'pdm3', 'pros'): ['54', '91']
+non-unique clusters: 32
+unique cluster: 123
